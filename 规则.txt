@@ -3,3 +3,5 @@
 2.系统中许多标记是否删除的东西用0表示未使用，1表示正在使用
     未删除 DefaultValue.IS_NOT_USE
     已删除 DefaultValue.IS_USE
+    
+    数据库不全啊大兄弟！！！！看到望添加上去
